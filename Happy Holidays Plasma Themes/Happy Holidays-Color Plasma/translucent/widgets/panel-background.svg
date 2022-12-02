@@ -6344,7 +6344,7 @@
      id="top">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
-       style="stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        id="rect4152"
        width="6"
        height="32"
@@ -6359,7 +6359,7 @@
        inkscape:connector-curvature="0"
        id="rect4159"
        d="m 25,910.36218 c -6.873839,-3.8e-4 -12,5.14222 -12,12 h 8 2 2 v -2 -8 z"
-       style="stroke-width:2;stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke-width:2;stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        sodipodi:nodetypes="cccccccc"
        class="ColorScheme-Background" />
   </g>
@@ -6370,7 +6370,7 @@
        inkscape:connector-curvature="0"
        id="rect4177"
        d="m 45.00004,910.36218 v 1.74999 6.99998 1.74999 h 1.749994 1.749994 5.249982 1.749995 c -1e-6,-6.00035 -4.499986,-10.50034 -10.499965,-10.49996 z"
-       style="stroke-width:1.74999;stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke-width:1.74999;stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        sodipodi:nodetypes="ccccccccc"
        class="ColorScheme-Background" />
   </g>
@@ -6383,7 +6383,7 @@
        height="32"
        width="6"
        id="rect4148"
-       style="stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        transform="rotate(90)"
        class="ColorScheme-Background" />
   </g>
@@ -6394,7 +6394,7 @@
        inkscape:connector-curvature="0"
        id="path5048"
        d="m 13,942.36216 c -2e-6,6.85658 5.142864,11.99945 12.00002,12.00002 v -2 -8.00002 -2 h -2.000003 -2.000004 -6.00001 z"
-       style="stroke-width:2;stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke-width:2;stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        sodipodi:nodetypes="ccccccccc"
        class="ColorScheme-Background" />
   </g>
@@ -6405,7 +6405,7 @@
        inkscape:connector-curvature="0"
        id="rect4177-6"
        d="m 44.99998,942.36216 v 2 8.00002 2 C 51.825523,954.36201 56.999994,949.34826 57,942.36216 h -2.000003 -6.00001 -2.000004 z"
-       style="stroke-width:2;stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke-width:2;stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        sodipodi:nodetypes="ccccccccc"
        class="ColorScheme-Background" />
   </g>
@@ -6418,7 +6418,7 @@
        height="32"
        width="5.9999995"
        id="rect4144"
-       style="stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        transform="scale(-1,1)"
        class="ColorScheme-Background" />
   </g>
@@ -6426,7 +6426,7 @@
      transform="matrix(2.3333335,0,0,0.4375,-46.999972,-374.90805)"
      id="right">
     <rect
-       style="stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+       style="stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
        id="rect4140"
        width="5.9999995"
        height="32"
@@ -6435,7 +6435,7 @@
        class="ColorScheme-Background" />
   </g>
   <rect
-     style="stroke-width:0.437499;stroke:none;fill-opacity:0.5;fill:currentColor;opacity:1;"
+     style="stroke-width:0.437499;stroke:none;fill-opacity:0.8;fill:currentColor;opacity:1;"
      id="center"
      width="14"
      height="14"

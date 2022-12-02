@@ -28,9 +28,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0000001"
-     inkscape:cx="214.99998"
-     inkscape:cy="99.49999"
+     inkscape:zoom="1.4142137"
+     inkscape:cx="313.95538"
+     inkscape:cy="77.074631"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -270,7 +270,7 @@
     </g>
     <rect
        id="center"
-       style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.70301"
+       style="stroke-width:0.70301;fill-opacity:1;fill:currentColor;opacity:0.8;"
        width="56.241432"
        height="56.240486"
        x="151.873"
@@ -519,7 +519,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <path
          id="path2486"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.687171"
+         style="stroke-width:0.687171;fill-opacity:1;fill:currentColor;opacity:0.8;"
          d="m 151.49992,1007.3777 v 16.4843 H 135 v 0 c 0,-13.4998 3,-16.4998 16.49992,-16.4997 v -10e-5 z"
          sodipodi:nodetypes="ccccccc"
          class="ColorScheme-Background" />
@@ -535,7 +535,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <path
          id="path2492"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.685961"
+         style="stroke-width:0.685961;fill-opacity:1;fill:currentColor;opacity:0.8;"
          d="m 206.49964,1007.3622 v 16.4998 h 16.49991 v 0 C 223,1010.3622 220,1007.3622 206.49964,1007.3622 Z"
          sodipodi:nodetypes="ccccc"
          class="ColorScheme-Background" />
@@ -551,7 +551,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <path
          id="topleft-3"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.687171"
+         style="stroke-width:0.687171;fill-opacity:1;fill:currentColor;opacity:0.8;"
          d="m 135,1078.8605 h 16.49992 v 16.4997 h -1e-5 C 138,1095.3602 135,1092.3621 135.00007,1078.8605 Z"
          sodipodi:nodetypes="cccscc"
          class="ColorScheme-Background" />
@@ -567,7 +567,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <path
          id="topright-6"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.686652"
+         style="stroke-width:0.686652;fill-opacity:1;fill:currentColor;opacity:0.8;"
          d="m 222.99955,1078.8606 h -16.49992 v 16.4995 0 c 13.50037,0 16.50037,-2.998 16.49987,-16.4995 z"
          sodipodi:nodetypes="cccccc"
          class="ColorScheme-Background" />
@@ -583,7 +583,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <rect
          id="rect2526"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.687491"
+         style="stroke-width:0.687491;fill-opacity:1;fill:currentColor;opacity:0.8;"
          width="54.999714"
          height="16.49963"
          x="151.50038"
@@ -605,7 +605,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <rect
          id="rect2498"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.687491"
+         style="stroke-width:0.687491;fill-opacity:1;fill:currentColor;opacity:0.8;"
          width="54.999714"
          height="16.49963"
          x="151.50038"
@@ -626,7 +626,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <rect
          id="rect2510"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.687491"
+         style="stroke-width:0.687491;fill-opacity:1;fill:currentColor;opacity:0.8;"
          width="54.998768"
          height="16.499914"
          x="1023.8636"
@@ -648,7 +648,7 @@
        transform="matrix(1.0225769,0,0,1.0225769,-3.0478751,-22.743067)">
       <rect
          id="rect2504"
-         style="opacity:0.5;fill:currentColor;fill-opacity:1;stroke-width:0.687491"
+         style="stroke-width:0.687491;fill-opacity:1;fill:currentColor;opacity:0.8;"
          width="54.998768"
          height="16.499914"
          x="1023.8636"
