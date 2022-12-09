@@ -8,3 +8,12 @@ Happy Holidays Themes For Plasma Desktop
 
 
 ![Screenshot_20221201_112223](https://user-images.githubusercontent.com/45247573/205270773-9aeb1565-047b-4bf7-808a-234d574102ec.png)
+
+
+Changelog: 09.12.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icons: kdf.svg, kleopatra.svg
