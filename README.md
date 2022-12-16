@@ -17,3 +17,11 @@ Plasma Theme
 ------------
 
 Added icons: kdf.svg, kleopatra.svg
+
+Changelog: 16.12.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icons: knotes.svg, sirikali.svg
