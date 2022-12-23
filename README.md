@@ -32,4 +32,4 @@ Changelog: 23.12.2022.
 Plasma Theme
 ------------
 
-Added icons: jami.svg
+Added icon: jami.svg
