@@ -25,3 +25,11 @@ Plasma Theme
 ------------
 
 Added icons: knotes.svg, sirikali.svg
+
+Changelog: 23.12.2022.
+-----------------------
+
+Plasma Theme
+------------
+
+Added icons: jami.svg
