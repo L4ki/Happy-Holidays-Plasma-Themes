@@ -1,8 +1,8 @@
 # Happy-Holidays-Plasma-Themes
 Happy Holidays Themes For Plasma Desktop 
 
-"Happy-Holidays-Color-Plasma"
-----------------------------
+"Happy-Holidays-Color-Plasma" (Follows Color Scheme)
+-----------------------------------------------------
 
 Download: 
 --------
