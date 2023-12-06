@@ -26,14 +26,13 @@ https://www.pling.com/p/1948316
 Screenshoots:
 -------------
 
-![Screenshot_20221201_111843](https://user-images.githubusercontent.com/45247573/205270683-59dd43e5-5a11-4aec-a9e8-ea6673875ab5.png)
+![logo-2](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/518b604a-2c30-490c-a787-919958fa8f24)
 
+![1](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/aa98f866-b7c9-43d0-894d-96cb49e2895e)
 
-![Screenshot_20221201_112025](https://user-images.githubusercontent.com/45247573/205270734-107dc629-0dad-40f1-9849-25b0c9d15d56.png)
+![3](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/0c484da0-2c5a-4805-a639-c3d40b2f6653)
 
-
-![Screenshot_20221201_112223](https://user-images.githubusercontent.com/45247573/205270773-9aeb1565-047b-4bf7-808a-234d574102ec.png)
-
+![4](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/9201c023-68d0-4f8f-b788-13cdf6dbae57)
 
 Changelog: 09.12.2022.
 -----------------------
