@@ -11,7 +11,7 @@ LayoutName=org.kde.breeze.desktop
 ColorScheme=GentlyColorDarkStrongBlue
 
 [kdeglobals][Icons]
-Theme=Gently-Color-Dark-Icons
+Theme=Gradient-Dark-Icons
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
