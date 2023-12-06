@@ -66,3 +66,17 @@ Plasma Theme
 ------------
 
 Added icons:  yakuake.svg, zoom.svg
+
+
+Changelog: 06.12.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Redesigned Theme
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg. Aurorae.rc
