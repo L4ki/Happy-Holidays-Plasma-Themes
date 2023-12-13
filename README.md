@@ -79,3 +79,16 @@ Aurorae Themes
 ---------------
 
 Update: decoration.svg. Aurorae.rc
+
+Changelog: 13.12.2023.
+-----------------------
+
+Plasma Theme
+------------
+
+Added new icons
+
+Aurorae Themes
+---------------
+
+Update: decoration.svg
