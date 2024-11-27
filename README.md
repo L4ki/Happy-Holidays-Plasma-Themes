@@ -26,69 +26,40 @@ https://www.pling.com/p/1948316
 Screenshoots:
 -------------
 
-![logo-2](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/518b604a-2c30-490c-a787-919958fa8f24)
+![1](https://github.com/user-attachments/assets/7c1d1c48-8d09-475e-ae57-3fa775243a20)
 
-![1](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/aa98f866-b7c9-43d0-894d-96cb49e2895e)
+![2](https://github.com/user-attachments/assets/a1975758-1481-4c52-bba9-848aff3a6499)
 
-![3](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/0c484da0-2c5a-4805-a639-c3d40b2f6653)
+![3-logo](https://github.com/user-attachments/assets/5e1f7b9d-dfc8-4992-abde-3e8d0c0c688f)
 
-![4](https://github.com/L4ki/Happy-Holidays-Plasma-Themes/assets/45247573/9201c023-68d0-4f8f-b788-13cdf6dbae57)
+![4](https://github.com/user-attachments/assets/35f539b2-c25b-4e13-b7e4-29406ebeb549)
 
-Changelog: 09.12.2022.
+![5](https://github.com/user-attachments/assets/567d0f91-3e0f-4a89-9016-2a30a3c3ef88)
+
+![4](https://github.com/user-attachments/assets/b384bde7-06f3-451d-89a1-10245c723209)
+
+![5](https://github.com/user-attachments/assets/63c66189-dbbc-46e2-a227-d7b64cc64c66)
+
+
+Changelog: 28.11.2024
 -----------------------
 
 Plasma Theme
 ------------
 
-Added icons: kdf.svg, kleopatra.svg
+Update widgets: panel-background.svg, viewitem.svg
 
-Changelog: 16.12.2022.
------------------------
+----------------------------------------------------
 
-Plasma Theme
-------------
+- Added Window Decorations For Plasma 6
 
-Added icons: knotes.svg, sirikali.svg
+- Added SDDM Login Theme For Plasma 6
 
-Changelog: 23.12.2022.
------------------------
-
-Plasma Theme
-------------
-
-Added icon: jami.svg
-
-Changelog: 30.12.2022.
------------------------
-
-Plasma Theme
-------------
-
-Added icons:  yakuake.svg, zoom.svg
+- Added Splashscreen Ror Plasma 6
 
 
-Changelog: 06.12.2023.
------------------------
 
-Plasma Theme
-------------
 
-Redesigned Theme
 
-Aurorae Themes
----------------
 
-Update: decoration.svg. Aurorae.rc
 
-Changelog: 13.12.2023.
------------------------
-
-Plasma Theme
-------------
-
-Added new icons
-
-Aurorae Themes
----------------
-
-Update: decoration.svg
