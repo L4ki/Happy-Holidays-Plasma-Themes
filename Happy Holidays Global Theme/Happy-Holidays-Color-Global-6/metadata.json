@@ -20,8 +20,8 @@
         "Website": "https://github.com/L4ki/Happy-Holidays-Plasma-Themes"
     },
     "X-KPackage-Dependencies": [
-        "kns://window-decorations.knsrc/api.kde-look.org/2217407",
-        "kns://window-decorations.knsrc/api.kde-look.org/2217399",
+        "kns://window-decorations.knsrc/api.kde-look.org/2227647",
+        "kns://window-decorations.knsrc/api.kde-look.org/2227646",
         "kns://colorschemes.knsrc/api.kde-look.org/1934138",
         "kns://colorschemes.knsrc/api.kde-look.org/1934133",
         "kns://icons.knsrc/api.kde-look.org/2078427",
@@ -31,8 +31,8 @@
         "kns://icons.knsrc/api.kde-look.org/1934150",
         "kns://icons.knsrc/api.kde-look.org/1934145",
         "kns://plasma-themes.knsrc/api.kde-look.org/1948316",
-        "kns://wallpaper.knsrc/api.kde-look.org/1948308",
-        "kns://wallpaper.knsrc/api.kde-look.org/1948309",
-        "kns://sddmtheme.knsrc/api.kde-look.org/2217381"
+        "kns://wallpaper.knsrc/api.kde-look.org/2227643",
+        "kns://wallpaper.knsrc/api.kde-look.org/2227641",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2227645"
     ]
 }
