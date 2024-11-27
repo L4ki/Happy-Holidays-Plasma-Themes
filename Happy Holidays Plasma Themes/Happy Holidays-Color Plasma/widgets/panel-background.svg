@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="panel-background.svg"
    id="svg200"
    viewBox="0 0 173 66"
@@ -6152,12 +6152,12 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="208.59493"
-     inkscape:cx="64.510242"
+     inkscape:cy="101.72769"
+     inkscape:cx="64.333017"
      inkscape:zoom="2.8212574"
      showgrid="false"
      id="namedview202"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -6296,7 +6296,7 @@
   </defs>
   <g
      style="opacity:0.5"
-     transform="matrix(1.1666636,0,0,1.1666636,74.5,-906.61592)"
+     transform="matrix(1.1666636,0,0,1.1666636,71.666609,-1080.7526)"
      id="shadow-topleft">
     <path
        id="path4828"
@@ -6307,7 +6307,7 @@
   <g
      style="opacity:0.5"
      id="shadow-topright"
-     transform="matrix(-1.1666644,0,0,1.1666644,79.166742,-906.61672)">
+     transform="matrix(-1.1666644,0,0,1.1666644,76.333351,-1080.7534)">
     <path
        id="path1015"
        d="m -3.9999924,926.3622 v 10.28573 c -6.8021366,10e-5 -12.0000236,5.14253 -12.0000236,12.00003 H -26.28575 V 926.3622 Z"
@@ -6317,7 +6317,7 @@
   <g
      style="opacity:0.5"
      id="shadow-bottomright"
-     transform="matrix(-1.0833359,0,0,-1.0833359,79.499958,1243.6985)">
+     transform="matrix(-1.0833359,0,0,-1.0833359,76.666567,1069.5618)">
     <path
        id="path1027"
        transform="matrix(-0.85714085,0,0,-0.85714085,57.71406,979.50491)"
@@ -6328,7 +6328,7 @@
   <g
      style="opacity:0.5"
      id="shadow-bottomleft"
-     transform="matrix(1.0833351,0,0,-1.0833352,74.166798,1243.6981)">
+     transform="matrix(1.0833351,0,0,-1.0833352,71.333407,1069.5614)">
     <path
        transform="matrix(0.85714144,0,0,-0.85714144,-55.42855,979.50498)"
        id="path1021"
@@ -6338,13 +6338,13 @@
   </g>
   <rect
      id="hint-tile-center"
-     y="174.13666"
+     y="1.373879e-05"
      width="5"
      height="5"
-     x="11.833391"
+     x="9"
      style="opacity:0.01;fill:#008080" />
   <g
-     transform="matrix(0.4375,0,0,2.3333333,61.520898,-1938.0414)"
+     transform="matrix(0.4375,0,0,2.3333333,58.687507,-2112.1781)"
      id="top">
     <rect
        transform="matrix(0,-1,-1,0,0,0)"
@@ -6357,7 +6357,7 @@
        class="ColorScheme-Background " />
   </g>
   <g
-     transform="matrix(1.1666667,0,0,1.1666667,40.666724,-875.95182)"
+     transform="matrix(1.1666667,0,0,1.1666667,37.833333,-1050.0885)"
      id="topleft">
     <path
        inkscape:connector-curvature="0"
@@ -6368,7 +6368,7 @@
        class="ColorScheme-Background " />
   </g>
   <g
-     transform="matrix(1.3333378,0,0,1.3333378,23.833138,-1027.6831)"
+     transform="matrix(1.3333378,0,0,1.3333378,20.999747,-1201.8198)"
      id="topright">
     <path
        inkscape:connector-curvature="0"
@@ -6379,7 +6379,7 @@
        class="ColorScheme-Background " />
   </g>
   <g
-     transform="matrix(0.4375,0,0,2.3333332,61.520898,-1998.7079)"
+     transform="matrix(0.4375,0,0,2.3333332,58.687507,-2172.8446)"
      id="bottom">
     <rect
        y="-50.999985"
@@ -6392,7 +6392,7 @@
        class="ColorScheme-Background " />
   </g>
   <g
-     transform="matrix(1.1666647,0,0,1.1666647,40.666752,-885.28332)"
+     transform="matrix(1.1666647,0,0,1.1666647,37.833361,-1059.42)"
      id="bottomleft">
     <path
        inkscape:connector-curvature="0"
@@ -6403,7 +6403,7 @@
        class="ColorScheme-Background " />
   </g>
   <g
-     transform="matrix(1.1666647,0,0,1.1666647,31.33351,-885.28342)"
+     transform="matrix(1.1666647,0,0,1.1666647,28.500119,-1059.4201)"
      id="bottomright">
     <path
        inkscape:connector-curvature="0"
@@ -6414,7 +6414,7 @@
        class="ColorScheme-Background " />
   </g>
   <g
-     transform="matrix(2.3333335,0,0,0.4375,25.500052,-200.77137)"
+     transform="matrix(2.3333335,0,0,0.4375,22.666661,-374.90803)"
      id="left">
     <rect
        y="916.36218"
@@ -6427,7 +6427,7 @@
        class="ColorScheme-Background " />
   </g>
   <g
-     transform="matrix(2.3333335,0,0,0.4375,-35.166581,-200.77137)"
+     transform="matrix(2.3333335,0,0,0.4375,-37.999972,-374.90803)"
      id="right">
     <rect
        style="opacity:1;fill:currentColor;fill-opacity:0.5;stroke:none"
@@ -6443,12 +6443,12 @@
      id="center"
      width="14"
      height="14"
-     x="69.833389"
-     y="200.1371"
+     x="67"
+     y="26.000456"
      class="ColorScheme-Background " />
   <g
      style="opacity:0.5"
-     transform="matrix(0.37500332,0,0,1.4444434,64.70828,-1123.4966)"
+     transform="matrix(0.37500332,0,0,1.4444434,61.874889,-1297.6333)"
      id="shadow-top">
     <rect
        y="-50.999985"
@@ -6477,7 +6477,7 @@
   </g>
   <g
      style="opacity:0.5"
-     transform="matrix(0.4375,0,0,2.1619027,61.520898,-1836.13)"
+     transform="matrix(0.4375,0,0,2.1619027,58.687507,-2010.2667)"
      id="shadow-bottom">
     <rect
        transform="rotate(90)"
@@ -6506,7 +6506,7 @@
   </g>
   <g
      style="opacity:0.5"
-     transform="matrix(2.022222,0,0,0.3750037,31.411165,-141.50213)"
+     transform="matrix(2.022222,0,0,0.3750037,28.577774,-315.63879)"
      id="shadow-left">
     <rect
        transform="scale(-1,1)"
@@ -6535,7 +6535,7 @@
   </g>
   <g
      style="opacity:0.5"
-     transform="matrix(2.1666668,0,0,0.37500392,-26.666521,-141.50233)"
+     transform="matrix(2.1666668,0,0,0.37500392,-29.499912,-315.63899)"
      id="shadow-right">
     <rect
        y="916.36218"
@@ -6560,7 +6560,7 @@
        y="916.36218" />
   </g>
   <g
-     transform="matrix(0.43749979,0,0,1.0833395,133.5209,-800.09419)"
+     transform="matrix(0.43749979,0,0,1.0833395,130.68751,-974.23086)"
      id="mask-top"
      style="fill:#24273a;fill-opacity:1">
     <rect
@@ -6573,7 +6573,7 @@
        transform="matrix(0,-1,-1,0,0,0)" />
   </g>
   <g
-     transform="matrix(1.3,0,0,1.3,110.93339,-997.33412)"
+     transform="matrix(1.3,0,0,1.3,108.1,-1171.4708)"
      id="mask-topleft"
      style="fill:#24273a;fill-opacity:1">
     <path
@@ -6584,7 +6584,7 @@
        sodipodi:nodetypes="cccc" />
   </g>
   <g
-     transform="matrix(1.6250026,0,0,1.625002,77.208242,-1293.2037)"
+     transform="matrix(1.6250026,0,0,1.625002,74.374851,-1467.3404)"
      id="mask-topright"
      style="fill:#24273a;fill-opacity:1">
     <path
@@ -6595,7 +6595,7 @@
        sodipodi:nodetypes="cccc" />
   </g>
   <g
-     transform="matrix(0.43749979,0,0,1.3000036,133.5209,-1012.5375)"
+     transform="matrix(0.43749979,0,0,1.3000036,130.68751,-1186.6742)"
      id="mask-bottom"
      style="fill:#24273a;fill-opacity:1">
     <rect
@@ -6608,7 +6608,7 @@
        y="-51" />
   </g>
   <g
-     transform="matrix(1.0833333,0,0,1.0833333,113.75006,-805.75513)"
+     transform="matrix(1.0833333,0,0,1.0833333,110.91667,-979.89179)"
      id="mask-bottomleft"
      style="fill:#24273a;fill-opacity:1">
     <path
@@ -6619,7 +6619,7 @@
        sodipodi:nodetypes="cccc" />
   </g>
   <g
-     transform="matrix(1.0833333,0,0,1.0833333,108.08339,-805.75536)"
+     transform="matrix(1.0833333,0,0,1.0833333,105.25,-979.89202)"
      id="mask-bottomright"
      style="fill:#24273a;fill-opacity:1">
     <path
@@ -6630,7 +6630,7 @@
        sodipodi:nodetypes="cccc" />
   </g>
   <g
-     transform="matrix(1.0833337,0,0,0.6999976,113.75005,-445.51411)"
+     transform="matrix(1.0833337,0,0,0.6999976,110.91666,-619.65078)"
      id="mask-left"
      style="fill:#24273a;fill-opacity:1">
     <rect
@@ -6643,7 +6643,7 @@
        y="922.36218" />
   </g>
   <g
-     transform="matrix(1.3000022,0,0,0.43749969,95.733288,-200.77097)"
+     transform="matrix(1.3000022,0,0,0.43749969,92.899897,-374.90763)"
      id="mask-right"
      style="fill:#24273a;fill-opacity:1">
     <rect
@@ -6655,15 +6655,15 @@
        style="opacity:0.97;fill:#24273a;fill-opacity:1;stroke:none;stroke-width:1.41421" />
   </g>
   <rect
-     y="200.13719"
-     x="141.8333"
+     y="26.00054"
+     x="138.99991"
      height="14"
      width="14"
      id="mask-center"
      style="fill:#24273a;fill-opacity:1;stroke:none;stroke-width:0.4375" />
   <g
      id="shadow-center"
-     transform="matrix(1.1666571,0,0,1.1666571,-56.765974,103.59526)">
+     transform="matrix(1.1666571,0,0,1.1666571,-59.599365,-70.541396)">
     <rect
        inkscape:label="#shadow-center"
        class="ColorScheme-Background"
@@ -6679,120 +6679,120 @@
      height="4"
      style="fill:#008080;stroke-width:0.999996"
      width="4"
-     x="37.833389"
-     y="83.248009" />
+     x="24.999998"
+     y="110.12133" />
   <rect
      id="hint-bottom-margin"
      height="4"
      style="fill:#008080;stroke-width:0.999996"
      width="4"
-     x="37.833389"
-     y="123.24801" />
+     x="24.999998"
+     y="150.12132" />
   <rect
      id="hint-top-inset"
      height="9.9999999e-09"
      style="fill:#008080"
      width="4"
-     x="37.833389"
-     y="83.248009" />
+     x="24.999998"
+     y="110.12133" />
   <rect
      id="hint-bottom-inset"
      height="9.9999999e-09"
      style="fill:#008080"
      width="4"
-     x="37.833389"
-     y="127.24801" />
+     x="24.999998"
+     y="154.12134" />
   <rect
      id="hint-right-margin"
      height="4"
      style="fill:#008080;stroke-width:0.999996"
      width="4"
-     x="57.833389"
-     y="103.24801" />
+     x="45"
+     y="130.12132" />
   <rect
      id="hint-left-margin"
      height="4"
      style="fill:#008080;stroke-width:0.999996"
      width="4"
-     x="17.833391"
-     y="103.24801" />
+     x="5"
+     y="130.12132" />
   <rect
      id="hint-left-inset"
      height="4"
      style="fill:#008080"
      width="9.9999999e-09"
-     x="17.833391"
-     y="103.24801" />
+     x="5"
+     y="130.12132" />
   <rect
      id="hint-right-inset"
      height="4"
      style="fill:#008080"
      width="9.9999999e-09"
-     x="61.833389"
-     y="103.24801" />
+     x="49"
+     y="130.12132" />
   <rect
      id="shadow-hint-top-margin"
      height="10"
      style="fill:#008080"
      width="2"
-     x="100.83339"
-     y="71.126671" />
+     x="88"
+     y="98" />
   <rect
      id="shadow-hint-bottom-margin"
      height="10"
      style="fill:#008080"
      width="2"
-     x="100.83339"
-     y="125.12669" />
+     x="88"
+     y="152.00002" />
   <rect
      id="shadow-hint-top-inset"
      height="10"
      style="fill:#ff7f2a"
      width="2"
-     x="104.83339"
-     y="71.126671" />
+     x="92"
+     y="98" />
   <rect
      id="shadow-hint-bottom-inset"
      height="10"
      style="fill:#ff7f2a"
      width="2"
-     x="104.83339"
-     y="125.12669" />
+     x="92"
+     y="152.00002" />
   <rect
      id="shadow-hint-right-margin"
      height="2"
      style="fill:#008080"
      width="10"
-     x="125.83339"
-     y="106.24801" />
+     x="113"
+     y="133.12132" />
   <rect
      id="shadow-hint-left-margin"
      height="2"
      style="fill:#ff7f2a"
      width="10"
-     x="71.833389"
-     y="102.24801" />
+     x="59"
+     y="129.12132" />
   <rect
      id="shadow-hint-right-inset"
      height="2"
      style="fill:#ff7f2a"
      width="10"
-     x="125.83339"
-     y="102.24801" />
+     x="113"
+     y="129.12132" />
   <rect
      id="shadow-hint-left-inset"
      height="2"
      style="fill:#008080"
      width="10"
-     x="71.833389"
-     y="106.24801" />
+     x="59"
+     y="133.12132" />
   <rect
      style="fill:currentColor;fill-opacity:1;stroke:none"
      id="thick-center"
      width="32"
      height="32"
-     x="62.833389"
-     y="295.13666"
+     x="-74"
+     y="17"
      class="ColorScheme-Background " />
   <rect
      transform="rotate(90)"
@@ -6800,19 +6800,19 @@
      id="thick-hint-right-margin"
      width="4"
      height="8"
-     x="315.13666"
-     y="-99.833389" />
+     x="37"
+     y="37.000004" />
   <rect
      transform="rotate(90)"
-     y="-63.833389"
-     x="315.13666"
+     y="73"
+     x="37"
      height="8"
      width="4"
      id="thick-hint-left-margin"
      style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547" />
   <rect
-     y="289.13666"
-     x="81.833389"
+     y="11"
+     x="-55.000004"
      height="8"
      width="4"
      id="thick-hint-top-margin"
@@ -6822,6 +6822,6 @@
      id="thick-hint-bottom-margin"
      width="4"
      height="8"
-     x="82.833389"
-     y="325.13669" />
+     x="-54.000004"
+     y="47.000015" />
 </svg>
