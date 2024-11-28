@@ -55,11 +55,11 @@ Update widgets: panel-background.svg, viewitem.svg
 
 - Added SDDM Login Theme For Plasma 6
 
-- Added Splashscreen Ror Plasma 6
+- Added Splashscreen For Plasma 6
 
 - Added Color Schemes
 
-
+- Added Global Theme For Plasma 6
 
 
 
