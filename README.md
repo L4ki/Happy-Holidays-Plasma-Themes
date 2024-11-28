@@ -57,7 +57,7 @@ Update widgets: panel-background.svg, viewitem.svg
 
 - Added Splashscreen Ror Plasma 6
 
-
+- Added Color Schemes
 
 
 
