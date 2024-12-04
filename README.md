@@ -47,7 +47,7 @@ Changelog: 04.12.2024
 Plasma Theme
 ------------
 
-Update widgets: panel-background.svg, viewitem.svg
+Update widget: busywidget.svg
 
 ----------------------------------------------------
 
