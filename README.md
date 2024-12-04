@@ -41,7 +41,7 @@ Screenshoots:
 ![5](https://github.com/user-attachments/assets/63c66189-dbbc-46e2-a227-d7b64cc64c66)
 
 
-Changelog: 28.11.2024
+Changelog: 04.12.2024
 -----------------------
 
 Plasma Theme
